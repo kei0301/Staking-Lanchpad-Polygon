@@ -1,0 +1,116 @@
+eth
+
+{
+    "total": 1,
+    "page": 0,
+    "page_size": 500,
+    "cursor": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3aGVyZSI6eyJvd25lcl9vZiI6IjB4OGI2ZTEzMjQ1NmJlYTQ1OTU0YmVmZjM0ODhiNGM3ZTI0NTEyOGI3ZCJ9LCJsaW1pdCI6NTAwLCJvZmZzZXQiOjUwMCwib3JkZXIiOltbInRyYW5zZmVyX2luZGV4IiwiREVTQyJdXSwicGFnZSI6MSwia2V5IjoiMjk5YjdjNTAzN2I4ODEzMDJhOTAyZmYwZTQwZTg0ZDkiLCJpYXQiOjE2NTExNTQ4Njl9.K07fdb4hpMTSb0qTcgUkeWzByXFcmUKS6cBK8qKqoc0",
+    "result": [
+        {
+            "token_address": "0x4b5809bc3e6082ac554088c94ad39a1a73268ea8",
+            "token_id": "84067863425985501237908661946972693026385854209368183805974476194223013713983",
+            "block_number_minted": "14668622",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "14671127",
+            "token_hash": "299b7c5037b881302a902ff0e40e84d9",
+            "amount": "1",
+            "contract_type": "ERC1155",
+            "name": "NFTify1155",
+            "symbol": "N1155",
+            "token_uri": "https://metadata.nftify.network/ipfs/84067863425985501237908661946972693026385854209368183805974476194223013713983",
+            "metadata": null,
+            "synced_at": "2022-04-27T20:24:45.617Z"
+        }
+    ],
+    "status": "SYNCED"
+}
+
+
+
+
+binance
+
+{
+    "total": 5,
+    "page": 0,
+    "page_size": 500,
+    "cursor": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3aGVyZSI6eyJvd25lcl9vZiI6IjB4OGI2ZTEzMjQ1NmJlYTQ1OTU0YmVmZjM0ODhiNGM3ZTI0NTEyOGI3ZCJ9LCJsaW1pdCI6NTAwLCJvZmZzZXQiOjUwMCwib3JkZXIiOltbInRyYW5zZmVyX2luZGV4IiwiREVTQyJdXSwicGFnZSI6MSwia2V5IjoiNDA3YTU3NjU4YTMzNTRmZDdmZWMwMWFiZjRhZWE2Y2QiLCJpYXQiOjE2NTExNTQ5OTZ9.lRo2utjjsOWdNipD5gNwm2gEiLpM-xrUbZwJov_Aewg",
+    "result": [
+        {
+            "token_address": "0x17a6f338c7cb39a8cc3f00dfaac03638db5f102e",
+            "token_id": "60062165849692415071277944840411049988826882310393802410454594520675878367762",
+            "block_number_minted": "16192016",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "16192044",
+            "token_hash": "b38943dc44dc8b6d4965424a1b943af4",
+            "amount": "1",
+            "contract_type": "ERC1155",
+            "name": "EXMOC TEST NFT Game  cards",
+            "symbol": "EXMOCTEST",
+            "token_uri": "https://metadata.nftify.network/ipfs/60062165849692415071277944840411049988826882310393802410454594520675878367762",
+            "metadata": "{\"name\":\"TestGOBLIMEAN\",\"image\":\"https://data.nftify.network/ipfs/QmZfgEfqkzMesZNHTgvdvKW2syoqxMGDt7G9NdHg6Rhi1x\",\"external_url\":\"https://nft.exmoc.com/nft/testgoblimean\",\"attributes\":[{\"trait_type\":\"Hero Name\",\"value\":\"TestGoblimean\"},{\"trait_type\":\"Hero Power\",\"value\":\"9\"},{\"trait_type\":\"Hero Strength\",\"value\":\"20\"},{\"trait_type\":\"Defence\",\"value\":\"9\"},{\"trait_type\":\"Resistance\",\"value\":\"9\"},{\"trait_type\":\"Health\",\"value\":\"1\"},{\"trait_type\":\"Power\",\"value\":\"1\"}],\"artist\":\"0x6C1AB937ebB2E0571310D81462E779AEa15936e9\"}",
+            "synced_at": "2022-03-19T09:44:56.428Z"
+        },
+        {
+            "token_address": "0xf6b04de2fd4b4998926d8df62bae2b82c541e5d4",
+            "token_id": "82126740429084666664867252188640065557167062371502666243908514599566196158557",
+            "block_number_minted": "16357170",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "16357170",
+            "token_hash": "9d1f638727afb3a8d6633a9cf4082a29",
+            "amount": "1",
+            "contract_type": "ERC721",
+            "name": "EXMOC TEST NFT Game cards",
+            "symbol": "EXMOC",
+            "token_uri": "https://metadata.nftify.network/ipfs/82126740429084666664867252188640065557167062371502666243908514599566196158557",
+            "metadata": "{\"name\":\"TestGostmask\",\"image\":\"https://data.nftify.network/ipfs/QmZPZhLZU3RU1qxypsag2f8aCYLyhGZ8cHvnM5dXg7YfbX\",\"external_url\":\"https://nft.exmoc.com/nft/testgostmask\",\"attributes\":[{\"trait_type\":\"Contract\",\"value\":\"0x2f53C0E79646c414FcF5aACAf7C8310b074C40A3\"},{\"display_type\":\"number\",\"trait_type\":\"Hero Power\",\"value\":3,\"max_value\":5},{\"display_type\":\"number\",\"trait_type\":\"Hero Strength\",\"value\":3,\"max_value\":5},{\"display_type\":\"number\",\"trait_type\":\"Defence\",\"value\":10,\"max_value\":77},{\"display_type\":\"number\",\"trait_type\":\"Resistance\",\"value\":3,\"max_value\":5},{\"display_type\":\"number\",\"trait_type\":\"Health\",\"value\":9,\"max_value\":44},{\"display_type\":\"number\",\"trait_type\":\"Power\",\"value\":5,\"max_value\":50}],\"artist\":\"0x6C1AB937ebB2E0571310D81462E779AEa15936e9\"}",
+            "synced_at": "2022-03-25T04:48:58.149Z"
+        },
+        {
+            "token_address": "0x5bf7576c2d25ae7e736babb5b683776a22e5db86",
+            "token_id": "19739796738004676060071642180512850776973039118738618884120310326393142770535",
+            "block_number_minted": "17169864",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "17171245",
+            "token_hash": "876cee34885eb2c10feb888fbc870d11",
+            "amount": "1",
+            "contract_type": "ERC1155",
+            "name": "TestNFTCardGame",
+            "symbol": "TestEXMOC",
+            "token_uri": "https://metadata.nftify.network/ipfs/19739796738004676060071642180512850776973039118738618884120310326393142770535",
+            "metadata": "{\"name\":\"TestRedcardEXMOCCard\",\"image\":\"https://data.nftify.network/ipfs/QmR94cMLAheT2JqMTjHpHpbJhbxaixNrpJx5dogd6ZZJ6W\",\"external_url\":\"https://exmoctest.nftify.network/nft/testredcardexmoccard-490412284\",\"attributes\":[{\"trait_type\":\"Contract address\",\"value\":\"0x2f53C0E79646c414FcF5aACAf7C8310b074C40A3\"}],\"artist\":\"0x3e1F0222f59a888436E0dac57270Dd8143312d75\"}",
+            "synced_at": "2022-04-22T14:32:49.355Z"
+        },
+        {
+            "token_address": "0x8555fed481bdd6bc6672d95e667230ef3e436930",
+            "token_id": "89524856482890551738077002889371864002676363337124229660828674285281200590515",
+            "block_number_minted": "16332253",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "16332790",
+            "token_hash": "7366640fe2540c80a624475927007dce",
+            "amount": "1",
+            "contract_type": "ERC721",
+            "name": "EXMOC Meta Avatar Series",
+            "symbol": "EXMOC Meta",
+            "token_uri": "https://metadata.nftify.network/ipfs/89524856482890551738077002889371864002676363337124229660828674285281200590515",
+            "metadata": "{\"name\":\"MEGASIN\",\"image\":\"https://data.nftify.network/ipfs/QmQ6CGQyhkRV2g7EiEUZXoaTtSNWsTnT4bzzq8D3R3r9kb\",\"external_url\":\"https://nft.exmoc.com/nft/megasin\",\"attributes\":[{\"trait_type\":\"Contract address\",\"value\":\"0x2f53C0E79646c414FcF5aACAf7C8310b074C40A3\"},{\"display_type\":\"number\",\"trait_type\":\"Hero Power\",\"value\":7,\"max_value\":10},{\"display_type\":\"number\",\"trait_type\":\"Hero Strength\",\"value\":22,\"max_value\":88},{\"display_type\":\"number\",\"trait_type\":\"Defence\",\"value\":2,\"max_value\":5},{\"display_type\":\"number\",\"trait_type\":\"Resistance\",\"value\":5,\"max_value\":9},{\"display_type\":\"number\",\"trait_type\":\"Health\",\"value\":4,\"max_value\":12},{\"display_type\":\"number\",\"trait_type\":\"Power\",\"value\":3,\"max_value\":15}],\"artist\":\"0x6C1AB937ebB2E0571310D81462E779AEa15936e9\"}",
+            "synced_at": "2022-03-24T08:01:46.634Z"
+        },
+        {
+            "token_address": "0x17a6f338c7cb39a8cc3f00dfaac03638db5f102e",
+            "token_id": "48196760526415603188366082559700538201040393836000618688939967150530984104867",
+            "block_number_minted": "16191740",
+            "owner_of": "0x8b6e132456bea45954beff3488b4c7e245128b7d",
+            "block_number": "16191759",
+            "token_hash": "407a57658a3354fd7fec01abf4aea6cd",
+            "amount": "1",
+            "contract_type": "ERC1155",
+            "name": "EXMOC TEST NFT Game  cards",
+            "symbol": "EXMOCTEST",
+            "token_uri": "https://metadata.nftify.network/ipfs/48196760526415603188366082559700538201040393836000618688939967150530984104867",
+            "metadata": "{\"name\":\"TestROBODAG\",\"image\":\"https://data.nftify.network/ipfs/QmdC1feVs846BmF5NyZQ2oX9hiYZYr4nzZdxHo4ZQFhRwo\",\"external_url\":\"https://nft.exmoc.com/nft/testrobodag\",\"attributes\":[{\"trait_type\":\"Hero Power\",\"value\":\"9\"},{\"trait_type\":\"Hero Strength\",\"value\":\"16\"},{\"trait_type\":\"Defence\",\"value\":\"3\"},{\"trait_type\":\"Resistance\",\"value\":\"2\"},{\"trait_type\":\"Health\",\"value\":\"2\"},{\"trait_type\":\"Power\",\"value\":\"9\"}],\"artist\":\"0x6C1AB937ebB2E0571310D81462E779AEa15936e9\"}",
+            "synced_at": "2022-03-19T09:37:00.782Z"
+        }
+    ],
+    "status": "SYNCED"
+}
